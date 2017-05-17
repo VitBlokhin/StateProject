@@ -1,8 +1,6 @@
 package org.itstep.pps2701.blokhin;
 
-import com.sun.javaws.exceptions.InvalidArgumentException;
 import org.itstep.pps2701.blokhin.grantstate.GrantState;
-import org.itstep.pps2701.blokhin.grantstate.StateNew;
 
 /**
  * Created by Vit on 17.05.2017.

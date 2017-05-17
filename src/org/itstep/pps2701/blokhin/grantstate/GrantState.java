@@ -27,6 +27,7 @@ abstract public class GrantState {
         return getState();
     }
 
+    // метод, который выводит разные значения, в зависимости от состояния ¯\_(ツ)_/¯
     abstract public String getState();
 
 } // class GrantState
